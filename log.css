@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    
+    background:url(gradient.jpg) no-repeat center center fixed;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.form-container{
+    width: auto;
+    height: auto;
+    border: 0px solid white;
+    padding: 30px 20px;
+    margin-top: 3vh;
+    -webkit-box-shadow: -15px 17px 32px -11px rgba(0,0,0,0.59);
+    -moz-box-shadow: -15px 17px 32px -11px rgba(0,0,0,0.59);
+    box-shadow: -15px 17px 32px -11px rgba(0,0,0,0.59);
+}
